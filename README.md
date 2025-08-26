@@ -1,5 +1,14 @@
 # WROFE_Team_Brainbot
 
+Team members:
+
+
+-Jazib Jaleel
+
+-Ryan Tah Zhong Jie
+
+-Samuel Tan Le Wen
+
 
 Engineering materials
 
